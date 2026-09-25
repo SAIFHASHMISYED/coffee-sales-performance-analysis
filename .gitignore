@@ -1,0 +1,11 @@
+# Power BI temporary/lock files
+~$*
+*.tmp
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+
+# OS files
+Thumbs.db
+.DS_Store
